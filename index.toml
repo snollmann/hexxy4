@@ -76,10 +76,6 @@ hash = "01132ba6cb8702fada6d502ff28e01dd5e22cb0d2a6a04f539b67b56ddb45482"
 metafile = true
 
 [[files]]
-file = "mods/fabric-api-0.92.6+1.20.1.jar"
-hash = "0ece50476da3692111ab04b75945c5458e70d98cd069eefc044ab3e57977deeb"
-
-[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "30f42d9c40bc729d19feaa0f46f41447e8199c9f9a8dc0ea1e19c376a2e83a6d"
 metafile = true
