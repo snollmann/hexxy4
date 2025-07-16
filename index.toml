@@ -335,8 +335,3 @@ metafile = true
 file = "mods/yigd.pw.toml"
 hash = "634e04c7df7c1cdb6a86b841c8053be60a6475f2d6869bc6f9edbf6ecb0d3a79"
 metafile = true
-
-[[files]]
-file = "resourcepacks/styledchat.pw.toml"
-hash = "434538f15a8d65313a622042ebf404bf74436c9328a47437d224e0f41544f024"
-metafile = true
