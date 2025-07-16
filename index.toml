@@ -21,6 +21,11 @@ file = "mods/architectury-9.2.14-fabric.jar"
 hash = "bd7a7032bedb2ff96c6991a846a44c857336a51442a105f5859017e8ba9d1321"
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "0cbcd58c49decc0ecbccd330fcc8326e3b8769e22e1740e229f09541acf3df7f"
+metafile = true
+
+[[files]]
 file = "mods/botarium-fabric-1.20.1-2.3.4.jar"
 hash = "d829200b5dbb464970e2c8b913e39788fd8902e43c4018200d8580833b4d0324"
 
@@ -35,6 +40,11 @@ hash = "ff1e33adde43c3e01f7e9a673cbb7f3a75453e769f80a38b057653475e296aa2"
 [[files]]
 file = "mods/cc-tweaked-1.20.1-fabric-1.116.0.jar"
 hash = "7130116e68f4f8197426f5113a894eb252a02539f86daa21c067c4895b41974c"
+
+[[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "c6432ace1364157e457532f5e2a3d258ca445cead8b94faffdb938ff437db744"
+metafile = true
 
 [[files]]
 file = "mods/cicada-lib-0.13.1+1.20.1.jar"
@@ -56,6 +66,11 @@ hash = "b3c0a6166313a2725d068cf3ccb5b5ae48f50b08f9e2e60cef0c7583c771ab10"
 [[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "21da22765bdcc9f9cd205fe082336e7ca8af3a9668ce857617ed7e3e8aefe2a2"
+metafile = true
+
+[[files]]
+file = "mods/ducky-periphs.pw.toml"
+hash = "ad0b1c92bf3db21f58b6c609e2da6cd303afedda9973000456e7e3886f906e89"
 metafile = true
 
 [[files]]
