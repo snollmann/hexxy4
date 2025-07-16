@@ -94,6 +94,11 @@ file = "mods/fabric-language-kotlin-1.13.4+kotlin.2.2.0.jar"
 hash = "2a3c56fc1dd6e922a9bee35a4c0ba4bc0d967763f2e952ff49b74ec3c641f50b"
 
 [[files]]
+file = "mods/fabrication.pw.toml"
+hash = "dfb73275bef59c514fe9a25c03a5ee0920290ab96127b17d159c6a06fbe2148d"
+metafile = true
+
+[[files]]
 file = "mods/figura.pw.toml"
 hash = "7bbf8bb6b1c97e37be420ba00963c831e68712ae0217e7e43bc4f0384b9a8f6e"
 metafile = true
