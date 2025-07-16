@@ -299,6 +299,16 @@ hash = "96e3771cd09bb4a808d1c1fcb5a050efdc2ffb4efe7b584407ed54c46c0388d9"
 metafile = true
 
 [[files]]
+file = "mods/styled-chat.pw.toml"
+hash = "828353c8e7286de53a8a2d02f5986c9092a33dd62ac16678436d2ff0582fc642"
+metafile = true
+
+[[files]]
+file = "mods/styled-nicknames.pw.toml"
+hash = "274b84b0e258d26e57d647506d0d1995da1fd82cecbedbe98caeedd45faa4d23"
+metafile = true
+
+[[files]]
 file = "mods/trinkets-3.7.2.jar"
 hash = "a6f11a4206c1285cd260a60d9bfe9cefa9914d2190d08b3c52050f42044b53b3"
 
