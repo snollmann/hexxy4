@@ -179,6 +179,11 @@ file = "mods/hexstruction-fabric-1.2.1+1.20.1.jar"
 hash = "5e063cb1f4ea2da3807045bf3248a7d05c0569d143e2fff8dfaa5ec29cc1f98e"
 
 [[files]]
+file = "mods/indium.pw.toml"
+hash = "8190bea6b572764f27a16d0e1d4d7262645a37528c54676b2b2456c8cae23783"
+metafile = true
+
+[[files]]
 file = "mods/inline-fabric-1.20.1-1.2.2.jar"
 hash = "b28a619c5e4ebe69d1b8eb5295f6294a20bb0e78dfb1160a00f71218f5b16518"
 
