@@ -49,6 +49,11 @@ file = "mods/complexhex-fabric-1.20.1-0.1.3-beta.jar"
 hash = "b3c0a6166313a2725d068cf3ccb5b5ae48f50b08f9e2e60cef0c7583c771ab10"
 
 [[files]]
+file = "mods/create-fabric.pw.toml"
+hash = "21da22765bdcc9f9cd205fe082336e7ca8af3a9668ce857617ed7e3e8aefe2a2"
+metafile = true
+
+[[files]]
 file = "mods/duckyperiphs-1.20.1-1.3.1-fabric.jar"
 hash = "ecbd59d17379539158f438fea722ee14e3596cee9044a7171df8b0c13f8c740e"
 
@@ -57,12 +62,27 @@ file = "mods/efhexs-1.0.0.jar"
 hash = "8d3d529b034b15de3fe4c63bc0400c589074213b51ab9a6f147c698a6cac7dfa"
 
 [[files]]
+file = "mods/emi.pw.toml"
+hash = "73323b708304a194d6ecdca4f477887898686a6f309f8cc053bc50fed1b703e5"
+metafile = true
+
+[[files]]
 file = "mods/ephemera-fabric-1.20.1-0.3.0.jar"
 hash = "1d385e8fa6bf1d33fd76b89cddab3f51545261bac924092b58193324b2a82671"
 
 [[files]]
+file = "mods/extreme_sound_muffler.pw.toml"
+hash = "01132ba6cb8702fada6d502ff28e01dd5e22cb0d2a6a04f539b67b56ddb45482"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api-0.92.6+1.20.1.jar"
 hash = "0ece50476da3692111ab04b75945c5458e70d98cd069eefc044ab3e57977deeb"
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "30f42d9c40bc729d19feaa0f46f41447e8199c9f9a8dc0ea1e19c376a2e83a6d"
+metafile = true
 
 [[files]]
 file = "mods/fabric-carpet-1.20-1.4.112+v230608.jar"
@@ -71,6 +91,11 @@ hash = "00ad0ed15c457fdec0e6eefe84d79e1bb7b8f91f5f3a133cf89cb2b60ffb3d11"
 [[files]]
 file = "mods/fabric-language-kotlin-1.13.4+kotlin.2.2.0.jar"
 hash = "2a3c56fc1dd6e922a9bee35a4c0ba4bc0d967763f2e952ff49b74ec3c641f50b"
+
+[[files]]
+file = "mods/figura.pw.toml"
+hash = "7bbf8bb6b1c97e37be420ba00963c831e68712ae0217e7e43bc4f0384b9a8f6e"
+metafile = true
 
 [[files]]
 file = "mods/geckolib-fabric-1.20.1-4.7.2.jar"
@@ -149,12 +174,47 @@ file = "mods/ioticblocks-fabric-1.0.1+1.20.1.jar"
 hash = "c4e179c4ff707963512454d0045ffc4953fd0862079c45d82f2ba30630c2718f"
 
 [[files]]
+file = "mods/iris-flw-compat.pw.toml"
+hash = "3a4fd33f4f5e03f4e74950a3f97a962b2ef0fd1fae58b78d27cf3c3c06c21c0c"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "0c76ff10971db8501866e5d2f855e6a466838e5b123fbd72bbf35ed3dd4a32ad"
+metafile = true
+
+[[files]]
+file = "mods/jade-addons-fabric.pw.toml"
+hash = "71cbf98e028cb67f8b9a071edc760bf26614895feeb568a1aac2b44926f1dd12"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "7e60ec08ec7f5158d5e185f4451c076b833d0252d9a67a4d8c6f4c8bd41e49bf"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "5ccfb1c3f5719f216c5a38358de1644bbca8eb05f62995d52bd677b87359a326"
+metafile = true
+
+[[files]]
 file = "mods/lanishextendedstaves-1.20.1-1.0.1.jar"
 hash = "6b69ec73bf501d435f293f3e4cbf0cd456edf5e245528efd3b1fc5ff0b8f0977"
 
 [[files]]
+file = "mods/lithium.pw.toml"
+hash = "a5296cda8cb89c99e40de32ab124700f7a6feb922fb37170c7988422e521c6d8"
+metafile = true
+
+[[files]]
 file = "mods/lmft-1.0.2+1.20-fabric.jar"
 hash = "1a145a0ce7654de710082c73b0eb172a44a098288403582103961a54430a52a3"
+
+[[files]]
+file = "mods/lmft.pw.toml"
+hash = "a28dd36b91f95e14dae9fc4b75a8316d9dc753182587e4fe9ca5d21963d05814"
+metafile = true
 
 [[files]]
 file = "mods/moderate-loading-screen-1.4.3+1.20.1.jar"
@@ -171,6 +231,16 @@ hash = "4023ed1fae0d5ed845e72ea5f3c280e26f7fce20df44b569a6610e1b938de9ee"
 [[files]]
 file = "mods/movesthemind-1.0.3.jar"
 hash = "60f792e84dc007f68b209de4a408e46f3a8408c4e152fd908038f4a30df3ef1e"
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "7ca62a9da5c2ec9f0a8bed5394021c959e90077db16b313be44f4c8736f7fbf5"
+metafile = true
+
+[[files]]
+file = "mods/notes.pw.toml"
+hash = "dfdd6d6e1ddca69c3815fd86c821bef75c195cb7465074a47967b90770ad05ad"
+metafile = true
 
 [[files]]
 file = "mods/oneironaut-fabric-1.20.1-0.5.0.jar"
@@ -205,9 +275,39 @@ file = "mods/scryglass-1.0.0.jar"
 hash = "7c338464e014d2ba785cd7aa4253b439fb09a5c4995294bc05863c9575f9bc25"
 
 [[files]]
+file = "mods/shuttfup.pw.toml"
+hash = "a849030777af282e83885b88a4dff85d74c1dc3af5426f93b3ebc45dcd846778"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "d390c88ec2ad5cce30c4a3ad18aeb1199bd3559b3b70b5fdbd9da2c12e698116"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "96e3771cd09bb4a808d1c1fcb5a050efdc2ffb4efe7b584407ed54c46c0388d9"
+metafile = true
+
+[[files]]
 file = "mods/trinkets-3.7.2.jar"
 hash = "a6f11a4206c1285cd260a60d9bfe9cefa9914d2190d08b3c52050f42044b53b3"
 
 [[files]]
 file = "mods/vivecraft-1.20.1-1.2.5-fabric.jar"
 hash = "4823aac7782d8274d57efbe081d11d24193878709095ec55eadeb03b41940da0"
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "c14a2c8d1d1ee116fac633256631c2b8c0febe0238108fb35b19021d6edc4df3"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "577f94e5be86eadb5dc21f2fb92a4b2acee2a5cd6c8d7f9903a02ee3f7076a49"
+metafile = true
+
+[[files]]
+file = "resourcepacks/styledchat.pw.toml"
+hash = "434538f15a8d65313a622042ebf404bf74436c9328a47437d224e0f41544f024"
+metafile = true

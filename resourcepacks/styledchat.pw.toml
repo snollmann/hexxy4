@@ -1,0 +1,13 @@
+name = "StyledChat"
+filename = "StyledChat_1.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/nXgstY9b/versions/rD8vemOh/StyledChat_1.0.zip"
+hash-format = "sha1"
+hash = "60b3bb64f63650b3286468f43bcf290465318568"
+
+[update]
+[update.modrinth]
+mod-id = "nXgstY9b"
+version = "rD8vemOh"
