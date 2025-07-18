@@ -39,12 +39,12 @@ hash = "b83e95e152814d93405950afebfc72db2d673324ae94e42245491c21fc1a0cce"
 
 [[files]]
 file = "mods/cardinal-components-api.pw.toml"
-hash = "fd522c425b7dd722dcd7a1d5785829ff9f12c67a1907b51d8731bd0ac5984a3a"
+hash = "bb111f705b13e7fca180b273cd1dcf78842dc52b00149ffc67cc74f4f1fcca3a"
 metafile = true
 
 [[files]]
 file = "mods/carpet.pw.toml"
-hash = "8c47daba91f742d52311a9df66bae3296246ecba7ca6f1650579e5739d152d0f"
+hash = "095a93b4f0b4e2b8fadf8359bc145cbdd83be3c5bf23432e9a5f4e54d60de5b4"
 metafile = true
 
 [[files]]
