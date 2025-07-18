@@ -9,6 +9,11 @@ file = "mods/HexVR-1.5.2 [FABRIC 1.20.1].jar"
 hash = "dae6bcacd5e68849531cb2457ae034216eec674d90193a1afe74ed6cd8e198b5"
 
 [[files]]
+file = "mods/amendments.pw.toml"
+hash = "3e6a050d5cf16d07d8a8d8bb2e849c65de05ef6ea6a9fdc67698c59594840d74"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "e3dfb2478e6bb096667d4ec89b0ddfef627747939373bdefee02f358d6e3dee1"
 metafile = true
