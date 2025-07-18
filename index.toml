@@ -9,33 +9,28 @@ file = "mods/HexVR-1.5.2 [FABRIC 1.20.1].jar"
 hash = "dae6bcacd5e68849531cb2457ae034216eec674d90193a1afe74ed6cd8e198b5"
 
 [[files]]
-file = "mods/Patchouli-1.20.1-84.1-FABRIC.jar"
-hash = "4f53d46291e1277303e91ff344d97b01847711d8c84f1a6d79f037d03a3b0578"
-
-[[files]]
-file = "mods/Pehkui-3.8.3+1.14.4-1.21.jar"
-hash = "3129e6fd47062007c815eebd1bd6739a8ecceacf5de2f74b22cce0b75fada75b"
-
-[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "0cbcd58c49decc0ecbccd330fcc8326e3b8769e22e1740e229f09541acf3df7f"
 metafile = true
 
 [[files]]
-file = "mods/botarium-fabric-1.20.1-2.3.4.jar"
-hash = "d829200b5dbb464970e2c8b913e39788fd8902e43c4018200d8580833b4d0324"
+file = "mods/botarium.pw.toml"
+hash = "d4b79652245914a4f376f13a0a11c12b624613be9df788e227572ee7f5281f6c"
+metafile = true
 
 [[files]]
 file = "mods/caduceus-fabric-0.1.1+1.20.1.jar"
 hash = "b83e95e152814d93405950afebfc72db2d673324ae94e42245491c21fc1a0cce"
 
 [[files]]
-file = "mods/cardinal-components-api-5.2.3.jar"
-hash = "ff1e33adde43c3e01f7e9a673cbb7f3a75453e769f80a38b057653475e296aa2"
+file = "mods/cardinal-components-api.pw.toml"
+hash = "fd522c425b7dd722dcd7a1d5785829ff9f12c67a1907b51d8731bd0ac5984a3a"
+metafile = true
 
 [[files]]
-file = "mods/cc-tweaked-1.20.1-fabric-1.116.0.jar"
-hash = "7130116e68f4f8197426f5113a894eb252a02539f86daa21c067c4895b41974c"
+file = "mods/carpet.pw.toml"
+hash = "8c47daba91f742d52311a9df66bae3296246ecba7ca6f1650579e5739d152d0f"
+metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
@@ -43,8 +38,9 @@ hash = "c6432ace1364157e457532f5e2a3d258ca445cead8b94faffdb938ff437db744"
 metafile = true
 
 [[files]]
-file = "mods/cicada-lib-0.13.1+1.20.1.jar"
-hash = "bb3463bf45dc9456544359ff0e761611add3f60b8c27a70fd50f445f54e5f0d1"
+file = "mods/cicada.pw.toml"
+hash = "fc91531cb60be93f9adc84d60e6034b25fea8d6c2b5c9bcd0bac6c3095bff1d2"
+metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
@@ -64,10 +60,6 @@ metafile = true
 file = "mods/ducky-periphs.pw.toml"
 hash = "ad0b1c92bf3db21f58b6c609e2da6cd303afedda9973000456e7e3886f906e89"
 metafile = true
-
-[[files]]
-file = "mods/duckyperiphs-1.20.1-1.3.1-fabric.jar"
-hash = "ecbd59d17379539158f438fea722ee14e3596cee9044a7171df8b0c13f8c740e"
 
 [[files]]
 file = "mods/efhexs-1.0.0.jar"
@@ -93,12 +85,9 @@ hash = "30f42d9c40bc729d19feaa0f46f41447e8199c9f9a8dc0ea1e19c376a2e83a6d"
 metafile = true
 
 [[files]]
-file = "mods/fabric-carpet-1.20-1.4.112+v230608.jar"
-hash = "00ad0ed15c457fdec0e6eefe84d79e1bb7b8f91f5f3a133cf89cb2b60ffb3d11"
-
-[[files]]
-file = "mods/fabric-language-kotlin-1.13.4+kotlin.2.2.0.jar"
-hash = "2a3c56fc1dd6e922a9bee35a4c0ba4bc0d967763f2e952ff49b74ec3c641f50b"
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "e40f0f2cc40abb5b5ef7123913d2762a6a5c6a5c5821e7cd886c89fe761f0501"
+metafile = true
 
 [[files]]
 file = "mods/fabrication.pw.toml"
@@ -111,8 +100,9 @@ hash = "7bbf8bb6b1c97e37be420ba00963c831e68712ae0217e7e43bc4f0384b9a8f6e"
 metafile = true
 
 [[files]]
-file = "mods/geckolib-fabric-1.20.1-4.7.2.jar"
-hash = "bc76fc3f61443db4da856502777c88ec62521d043f349da72105df172b065387"
+file = "mods/geckolib.pw.toml"
+hash = "948be3e27f328230d89fcb0f5d3d4306c7b2198dd9b74692555b1cdfa005f916"
+metafile = true
 
 [[files]]
 file = "mods/gravity-changer-1.1.2+mc1.20.1.jar"
@@ -184,8 +174,9 @@ hash = "8190bea6b572764f27a16d0e1d4d7262645a37528c54676b2b2456c8cae23783"
 metafile = true
 
 [[files]]
-file = "mods/inline-fabric-1.20.1-1.2.2.jar"
-hash = "b28a619c5e4ebe69d1b8eb5295f6294a20bb0e78dfb1160a00f71218f5b16518"
+file = "mods/inline.pw.toml"
+hash = "6eb5f2de6f88720f1613e7073e4834932776b1a7207ae551d0e1b0e3d018c3ff"
+metafile = true
 
 [[files]]
 file = "mods/ioticblocks-fabric-1.0.1+1.20.1.jar"
@@ -226,21 +217,19 @@ hash = "a5296cda8cb89c99e40de32ab124700f7a6feb922fb37170c7988422e521c6d8"
 metafile = true
 
 [[files]]
-file = "mods/lmft-1.0.2+1.20-fabric.jar"
-hash = "1a145a0ce7654de710082c73b0eb172a44a098288403582103961a54430a52a3"
-
-[[files]]
 file = "mods/lmft.pw.toml"
 hash = "a28dd36b91f95e14dae9fc4b75a8316d9dc753182587e4fe9ca5d21963d05814"
 metafile = true
 
 [[files]]
-file = "mods/moderate-loading-screen-1.4.3+1.20.1.jar"
-hash = "33bc28e3cac88968f921ddd54cfe152ca6f47c461a9b1cb844d0681514dc040d"
+file = "mods/moderate-loading-screen.pw.toml"
+hash = "56601fd64ca601717fbe88fefab39bb7bd95459bc777a0dd18e96ca4c8be85f5"
+metafile = true
 
 [[files]]
-file = "mods/modmenu-7.2.2.jar"
-hash = "a041b0f0305ffa5eb90120aa23768e1cfbb27583904b1751e3783c0f69382f1a"
+file = "mods/modmenu.pw.toml"
+hash = "4cd171d3f5f3e1d2948cb1b0062e742a5e85110c9e9a668f9aed5b0cebcb9c97"
+metafile = true
 
 [[files]]
 file = "mods/moreiotas-fabric-1.20.1-0.1.0-5.jar"
@@ -269,20 +258,33 @@ file = "mods/overevaluate-1.0.0.jar"
 hash = "ea18e87ac6ebc6afa2fd2c3061d1830c1d5a6f671dc7d432fc4f7f470442c492"
 
 [[files]]
-file = "mods/owo-lib-0.11.2+1.20.jar"
-hash = "1c249c30d3e50bba5cb35e0c3acebf4bd5f969bd33402de2f3a6a619fd688d12"
+file = "mods/owo-lib.pw.toml"
+hash = "28b3e0806647eb166e942cf6552993bb6d666949c53f0d51927bdfb063cb6cc4"
+metafile = true
 
 [[files]]
-file = "mods/paucal-0.6.0+1.20.1-fabric.jar"
-hash = "5cce226aec79dd5b70006bdf3746e639f53d4f674b97fec3c0630515e070f3c7"
+file = "mods/patchouli.pw.toml"
+hash = "2e8e746d6f81c3dbb935bb2f3074d129574dd03d19d201975c5049fd70a54dc2"
+metafile = true
+
+[[files]]
+file = "mods/paucal.pw.toml"
+hash = "de40d3845dd5c1fc91b618bb5e99662b5a5b9805b3b0e4ee345221dac62e8ece"
+metafile = true
+
+[[files]]
+file = "mods/pehkui.pw.toml"
+hash = "db2ef0d18557d56570c504142912af0d519814bf047165aa04bf24bddf026fdc"
+metafile = true
 
 [[files]]
 file = "mods/phlexiful-fabric-1.0.0.jar"
 hash = "83608862145450a67aa88b79cde5d727e465895a50fe49d0874636f3d2bcb5c0"
 
 [[files]]
-file = "mods/resourcefullib-fabric-1.20.1-2.1.29.jar"
-hash = "2543d76f4f440d4401dccf7675f836381260919f0ac884e2696ae67e600adeeb"
+file = "mods/resourceful-lib.pw.toml"
+hash = "04309568425eb622ffab10178d2fae3543788be54aa427ab640aea0c0dd5a4b9"
+metafile = true
 
 [[files]]
 file = "mods/scryglass-1.0.0.jar"
@@ -314,12 +316,14 @@ hash = "274b84b0e258d26e57d647506d0d1995da1fd82cecbedbe98caeedd45faa4d23"
 metafile = true
 
 [[files]]
-file = "mods/trinkets-3.7.2.jar"
-hash = "a6f11a4206c1285cd260a60d9bfe9cefa9914d2190d08b3c52050f42044b53b3"
+file = "mods/trinkets.pw.toml"
+hash = "07619668821f2aad9dbd40084ad80f25595d8715a9ef204a4a9629225729a7d9"
+metafile = true
 
 [[files]]
-file = "mods/vivecraft-1.20.1-1.2.5-fabric.jar"
-hash = "4823aac7782d8274d57efbe081d11d24193878709095ec55eadeb03b41940da0"
+file = "mods/vivecraft.pw.toml"
+hash = "db3d511cd97a214a0804225cef5b83e60670eee12f87225d81eb242992d544d7"
+metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
