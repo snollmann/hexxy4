@@ -232,6 +232,11 @@ hash = "4cd171d3f5f3e1d2948cb1b0062e742a5e85110c9e9a668f9aed5b0cebcb9c97"
 metafile = true
 
 [[files]]
+file = "mods/moonlight.pw.toml"
+hash = "9265983194be46db390480b018968d39207ed5494f59f93a7048e8f1d2fa24a6"
+metafile = true
+
+[[files]]
 file = "mods/moreiotas-fabric-1.20.1-0.1.0-5.jar"
 hash = "4023ed1fae0d5ed845e72ea5f3c280e26f7fce20df44b569a6610e1b938de9ee"
 
@@ -313,6 +318,11 @@ metafile = true
 [[files]]
 file = "mods/styled-nicknames.pw.toml"
 hash = "274b84b0e258d26e57d647506d0d1995da1fd82cecbedbe98caeedd45faa4d23"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "cecc4685aafaf26c05cd6b20809611d04ec3c3ed079ffdcc9938c2acec2c11e2"
 metafile = true
 
 [[files]]
