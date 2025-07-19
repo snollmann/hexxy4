@@ -123,11 +123,6 @@ hash = "e40f0f2cc40abb5b5ef7123913d2762a6a5c6a5c5821e7cd886c89fe761f0501"
 metafile = true
 
 [[files]]
-file = "mods/fabrication.pw.toml"
-hash = "dfb73275bef59c514fe9a25c03a5ee0920290ab96127b17d159c6a06fbe2148d"
-metafile = true
-
-[[files]]
 file = "mods/figura.pw.toml"
 hash = "7bbf8bb6b1c97e37be420ba00963c831e68712ae0217e7e43bc4f0384b9a8f6e"
 metafile = true
