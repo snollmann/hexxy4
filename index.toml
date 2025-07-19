@@ -9,6 +9,11 @@ file = "mods/HexVR-1.5.2 [FABRIC 1.20.1].jar"
 hash = "dae6bcacd5e68849531cb2457ae034216eec674d90193a1afe74ed6cd8e198b5"
 
 [[files]]
+file = "mods/amendments.pw.toml"
+hash = "3e6a050d5cf16d07d8a8d8bb2e849c65de05ef6ea6a9fdc67698c59594840d74"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "e3dfb2478e6bb096667d4ec89b0ddfef627747939373bdefee02f358d6e3dee1"
 metafile = true
@@ -179,10 +184,6 @@ hash = "59efe1519a724a0b3720a3b2a747ddc3c9ffecac0d66d2f322caa831ab7692c2"
 [[files]]
 file = "mods/hexpose-1.0.0.jar"
 hash = "fde9140a48db594bdfa006d9da3e9f9b41f06eff270c566bd3c932b9c4f72aac"
-
-[[files]]
-file = "mods/hexpsi-1.0.0.jar"
-hash = "7d9266e28dc187fbcc7e3d685c08a7f217b3000ef70e251662e54a461fe15515"
 
 [[files]]
 file = "mods/hexstruction-fabric-1.2.1+1.20.1.jar"
