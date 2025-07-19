@@ -194,6 +194,11 @@ file = "mods/hexpose-1.0.0.jar"
 hash = "fde9140a48db594bdfa006d9da3e9f9b41f06eff270c566bd3c932b9c4f72aac"
 
 [[files]]
+file = "mods/hexsky.pw.toml"
+hash = "82b9a3cbe803841e5520dd61a47599a938d4dd7b0b5e36a537965f15b48dd2db"
+metafile = true
+
+[[files]]
 file = "mods/hexstruction-fabric-1.2.1+1.20.1.jar"
 hash = "5e063cb1f4ea2da3807045bf3248a7d05c0569d143e2fff8dfaa5ec29cc1f98e"
 
@@ -377,6 +382,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "07619668821f2aad9dbd40084ad80f25595d8715a9ef204a4a9629225729a7d9"
+metafile = true
+
+[[files]]
+file = "mods/valkyrien-skies.pw.toml"
+hash = "5cf798f094305b36d18848949c535561aabe63a07213da67a021c9facb93e48b"
 metafile = true
 
 [[files]]
