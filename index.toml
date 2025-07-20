@@ -17,6 +17,10 @@ file = "mods/Psi-1.20.1-105.547.jar"
 hash = "0a1ba59229345ba076de551c4b146ce906c563524ccfa46d0b0a7bcfe11ba9f9"
 
 [[files]]
+file = "mods/Slate_Work-0.1.0.jar"
+hash = "174ae8fd04f8bb6a586b17bb99b67994f3a3571cc6d404df972d06e3dcfcc442"
+
+[[files]]
 file = "mods/amendments.pw.toml"
 hash = "3e6a050d5cf16d07d8a8d8bb2e849c65de05ef6ea6a9fdc67698c59594840d74"
 metafile = true
