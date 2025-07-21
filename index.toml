@@ -5,6 +5,10 @@ file = "config/moderate-loading-screen.json5"
 hash = "edbc96ed4ba7b013ab3dbbd8a35fc285216388fb208825525fb647c3cf16307b"
 
 [[files]]
+file = "config/styled-chat.json"
+hash = "f08b1ae07c87ed0a87ab054d03d8bfce40a686cfbcd40a19c593cb7c5b1288dd"
+
+[[files]]
 file = "mods/HexVR-1.5.2 [FABRIC 1.20.1].jar"
 hash = "dae6bcacd5e68849531cb2457ae034216eec674d90193a1afe74ed6cd8e198b5"
 
@@ -18,7 +22,7 @@ hash = "0a1ba59229345ba076de551c4b146ce906c563524ccfa46d0b0a7bcfe11ba9f9"
 
 [[files]]
 file = "mods/Slate_Work-0.1.0.jar"
-hash = "8b0de0b9ee837e1d5173a961ba3ff10437e90f39649a874451c02916d51918dd"
+hash = "4cbc1ab54a3015d49fef34f01c1b38e5882d24e223eb22d34bf388bd7e56edeb"
 
 [[files]]
 file = "mods/amendments.pw.toml"
@@ -185,6 +189,11 @@ hash = "62b521d6a7a2036866b1d2b3b04a2c3cc7c9d60b1df00d50d58fd4492398d9a4"
 [[files]]
 file = "mods/hexical-2.0.0.jar"
 hash = "20200f9552242072d4996ba752f655f1569c74aafbb222bf2250d7a5742ca7e1"
+
+[[files]]
+file = "mods/hexlands.pw.toml"
+hash = "e1d9d27cc7b9251d1b03440ae1e7c5f9f68026739e476d24a5f7f8c2a63b95cc"
+metafile = true
 
 [[files]]
 file = "mods/hexodus-1.0.0.jar"
