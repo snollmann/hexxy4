@@ -103,11 +103,6 @@ hash = "21da22765bdcc9f9cd205fe082336e7ca8af3a9668ce857617ed7e3e8aefe2a2"
 metafile = true
 
 [[files]]
-file = "mods/dimthreads.pw.toml"
-hash = "18f4f5a23264d68839b9f3e9c76725841361f31a849635a0826e74bb53a782e6"
-metafile = true
-
-[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "6ecfbc71109df7f66186fa00376ddd4880593706eb7c149d6c1097545378d726"
 metafile = true
