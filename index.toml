@@ -103,6 +103,11 @@ hash = "21da22765bdcc9f9cd205fe082336e7ca8af3a9668ce857617ed7e3e8aefe2a2"
 metafile = true
 
 [[files]]
+file = "mods/dimthreads.pw.toml"
+hash = "18f4f5a23264d68839b9f3e9c76725841361f31a849635a0826e74bb53a782e6"
+metafile = true
+
+[[files]]
 file = "mods/ducky-periphs.pw.toml"
 hash = "ad0b1c92bf3db21f58b6c609e2da6cd303afedda9973000456e7e3886f906e89"
 metafile = true
@@ -214,6 +219,11 @@ hash = "fde9140a48db594bdfa006d9da3e9f9b41f06eff270c566bd3c932b9c4f72aac"
 [[files]]
 file = "mods/hexstruction-fabric-1.2.1+1.20.1.jar"
 hash = "5e063cb1f4ea2da3807045bf3248a7d05c0569d143e2fff8dfaa5ec29cc1f98e"
+
+[[files]]
+file = "mods/immersive-optimization.pw.toml"
+hash = "f8c2b8753d262e8cc28515f8a2ee925948e11a773d9760ec02da5b8a624dbe72"
+metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
@@ -363,6 +373,11 @@ hash = "5d694c42e5e6759807f1f5756de3dd24f098517143b8d8aac5721b7d5cf502b1"
 metafile = true
 
 [[files]]
+file = "mods/servertick.pw.toml"
+hash = "6d24776287ac46585ab1c7f451c67d90b1b477f61237a57218f22378dbae7ad7"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "d390c88ec2ad5cce30c4a3ad18aeb1199bd3559b3b70b5fdbd9da2c12e698116"
 metafile = true
@@ -395,6 +410,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "07619668821f2aad9dbd40084ad80f25595d8715a9ef204a4a9629225729a7d9"
+metafile = true
+
+[[files]]
+file = "mods/tt20.pw.toml"
+hash = "846e69de98e82540d2360cf04a044dd209829fce1219d08d2782091d3498fbae"
 metafile = true
 
 [[files]]
