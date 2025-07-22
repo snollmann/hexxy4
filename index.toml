@@ -42,6 +42,11 @@ hash = "799e7d021483cc525c21ddbeb04622e60e7ee9dbd2f9f9f5cc3b28c51b348f3a"
 metafile = true
 
 [[files]]
+file = "mods/bobby.pw.toml"
+hash = "628ca822826f31018f97293b673e09defe9bc46616a7636bbd4a3b51ee4c9949"
+metafile = true
+
+[[files]]
 file = "mods/botarium.pw.toml"
 hash = "d4b79652245914a4f376f13a0a11c12b624613be9df788e227572ee7f5281f6c"
 metafile = true
