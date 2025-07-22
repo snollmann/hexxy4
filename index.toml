@@ -309,6 +309,11 @@ file = "mods/movesthemind-1.0.3.jar"
 hash = "60f792e84dc007f68b209de4a408e46f3a8408c4e152fd908038f4a30df3ef1e"
 
 [[files]]
+file = "mods/neruina.pw.toml"
+hash = "d43dcfcd7e73faffb2b92c7d0694e527356aab02711eaa34e127760172a78537"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "7ca62a9da5c2ec9f0a8bed5394021c959e90077db16b313be44f4c8736f7fbf5"
 metafile = true
