@@ -207,6 +207,10 @@ file = "mods/hexstruction-fabric-1.2.1+1.20.1.jar"
 hash = "5e063cb1f4ea2da3807045bf3248a7d05c0569d143e2fff8dfaa5ec29cc1f98e"
 
 [[files]]
+file = "mods/hierophantics.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/immersive-optimization.pw.toml"
 hash = "f8c2b8753d262e8cc28515f8a2ee925948e11a773d9760ec02da5b8a624dbe72"
 metafile = true
@@ -258,6 +262,10 @@ metafile = true
 [[files]]
 file = "mods/konkrete.pw.toml"
 hash = "b0487d5437a636e61b353c70699994de1fd1aca903853d9366860cbbcfca5fd2"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
 metafile = true
 
 [[files]]
@@ -366,6 +374,10 @@ hash = "7c338464e014d2ba785cd7aa4253b439fb09a5c4995294bc05863c9575f9bc25"
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "5d694c42e5e6759807f1f5756de3dd24f098517143b8d8aac5721b7d5cf502b1"
+metafile = true
+
+[[files]]
+file = "mods/servercore.pw.toml"
 metafile = true
 
 [[files]]
