@@ -81,7 +81,6 @@ hash = "b3c0a6166313a2725d068cf3ccb5b5ae48f50b08f9e2e60cef0c7583c771ab10"
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "0360f47c1afd7385518db9df5d809344e1bcdc163e940a8744ee61b6d745b6ce"
 metafile = true
 
 [[files]]
