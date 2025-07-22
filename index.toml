@@ -81,6 +81,7 @@ hash = "b3c0a6166313a2725d068cf3ccb5b5ae48f50b08f9e2e60cef0c7583c771ab10"
 
 [[files]]
 file = "mods/controlling.pw.toml"
+hash = "0360f47c1afd7385518db9df5d809344e1bcdc163e940a8744ee61b6d745b6ce"
 metafile = true
 
 [[files]]
@@ -208,6 +209,7 @@ hash = "5e063cb1f4ea2da3807045bf3248a7d05c0569d143e2fff8dfaa5ec29cc1f98e"
 
 [[files]]
 file = "mods/hierophantics.pw.toml"
+hash = "c8858a781a258c18ad142463689477a36d37501c1cc2e812d6a0a1351869bc78"
 metafile = true
 
 [[files]]
@@ -266,6 +268,7 @@ metafile = true
 
 [[files]]
 file = "mods/krypton.pw.toml"
+hash = "71ef7cc16632c0039fe194183b5885968c6d740aaa67a58000653ae0cb40b882"
 metafile = true
 
 [[files]]
@@ -378,6 +381,7 @@ metafile = true
 
 [[files]]
 file = "mods/servercore.pw.toml"
+hash = "2a3f43bcb818999b3228849ad0e3dacc97e9809654076adf483fe6046cab21ea"
 metafile = true
 
 [[files]]
