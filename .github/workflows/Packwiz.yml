@@ -13,8 +13,23 @@ jobs:
     steps:
       - run: sudo GOBIN=/usr/local/bin go install github.com/packwiz/packwiz@latest
       - uses: actions/checkout@v4
+        with:
+          ref: main
+          path: main
+      - run: cd main
       - run: bash -c "rm -rf $(cat .packwizignore | xargs)"
       - run: /usr/local/bin/packwiz refresh --build
+      - run: cd ..
+
+      - uses: actions/checkout@v4
+        with:
+          ref: dev
+          path: dev
+      - run: cd dev
+      - run: bash -c "rm -rf $(cat .packwizignore | xargs)"
+      - run: /usr/local/bin/packwiz refresh --build
+      - run: cd ..
+      
       - uses: actions/upload-pages-artifact@v3
         with:
           path: .
