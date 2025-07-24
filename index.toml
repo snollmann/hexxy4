@@ -82,6 +82,10 @@ file = "mods/controlling.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/coroutil.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/create-fabric.pw.toml"
 metafile = true
 
@@ -359,6 +363,10 @@ metafile = true
 
 [[files]]
 file = "mods/vivecraft.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/what-are-they-up-to.pw.toml"
 metafile = true
 
 [[files]]
