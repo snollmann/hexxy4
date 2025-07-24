@@ -53,6 +53,10 @@ file = "mods/carpet.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/carry-on.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/cc-tweaked.pw.toml"
 metafile = true
 
