@@ -233,6 +233,10 @@ file = "mods/lmft.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/lootr.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/moderate-loading-screen.pw.toml"
 metafile = true
 
