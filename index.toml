@@ -190,6 +190,10 @@ file = "mods/iris.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/item-obliterator.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/jade-addons-fabric.pw.toml"
 metafile = true
 
