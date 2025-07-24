@@ -22,6 +22,10 @@ file = "mods/architectury-api.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/armourers-workshop.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/better-advancements.pw.toml"
 metafile = true
 
