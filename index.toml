@@ -10,9 +10,6 @@ file = "config/styled-chat.json"
 file = "mods/HexVR-1.5.2 [FABRIC 1.20.1].jar"
 
 [[files]]
-file = "mods/Slate_Work-0.1.0.jar"
-
-[[files]]
 file = "mods/amendments.pw.toml"
 metafile = true
 
@@ -185,10 +182,6 @@ metafile = true
 file = "mods/ioticblocks-fabric-1.0.1+1.20.1.jar"
 
 [[files]]
-file = "mods/iris-flw-compat.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/iris.pw.toml"
 metafile = true
 
@@ -308,6 +301,9 @@ metafile = true
 [[files]]
 file = "mods/servertick.pw.toml"
 metafile = true
+
+[[files]]
+file = "mods/slate_work-0.1.1.jar"
 
 [[files]]
 file = "mods/sodium.pw.toml"
