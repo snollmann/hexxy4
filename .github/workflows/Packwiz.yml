@@ -1,6 +1,5 @@
 name: Packwiz Export
 on:
-  push:
   workflow_dispatch:
 permissions:
   contents: read
