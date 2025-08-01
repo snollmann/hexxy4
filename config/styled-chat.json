@@ -9,9 +9,9 @@
     "respect_colors_client_setting": true
   },
   "auto_completion": {
-    "tags": false,
-    "tag_aliases": false,
-    "emoticons": false
+    "tags": true,
+    "tag_aliases": true,
+    "emoticons": true
   },
   "default": {
     "display_name": "${default}",
@@ -34,7 +34,6 @@
       "pet_death": "${default_message}"
     },
     "link_style": "<underline><c:#7878ff>${link}",
-    "mention_style": "<c:#7878ff>%player:displayname%",
     "spoiler_style": "<gray>${spoiler}",
     "spoiler_symbol": "▌",
     "formatting": {
@@ -58,21 +57,43 @@
       "dark_aqua": true,
       "dark_gray": true,
       "spoiler": true,
-      "strikethrough": true
+      "strikethrough": true,
+      "click": true,
+      "hover": true,
+      "lang": true,
+      "gradient": true,
+      "hard_gradient": true,
+      "rainbow": true,
+      "reset": true,
+      "r": true,
+      "keybind": true,
+      "clear": true,
+      "insert": true,
+      "color": true,
+      "font": true
     },
     "emoticons": {
-      "shrug": "¯\\_(ツ)_/¯",
-      "table": "(╯°□°）╯︵ ┻━┻",
-      "sword": "🗡",
-      "bow": "🏹",
-      "trident": "🔱",
-      "rod": "🎣",
-      "potion": "🧪",
-      "shears": "✂",
-      "bucket": "🪣",
-      "bell": "🔔",
       "item": "[%player:equipment_slot mainhand%]",
-      "pos": "%player:pos_x% %player:pos_y% %player:pos_z%"
+      "pos": "%player:pos_x% %player:pos_y% %player:pos_z%",
+      "fire": "🔥",
+      "thinkies": ":thinking:",
+      "hexxy": ":hexxy:",
+      "weedhexxy": ":weedhexxy:",
+      "fluxxy": ":fluxxy:",
+      "clueless": ":clueless:",
+      "cluedin": ":cluedin:",
+      "I_Use_WispOS_Btw": ":I_Use_WispOS_Btw:",
+      "psexxy": ":psexxy:",
+      "concern": ":concern:",
+      "widexxy": ":widexxy:",
+      "amethyst_cherish": ":amethyst_cherish:",
+      "widexxy_left": ":widexxy_left:",
+      "widexxy_left_eye": ":widexxy_left_eye:",
+      "widexxy_left_eye_weed": ":widexxy_left_eye_weed:",
+      "widexxy_left_center": ":widexxy_left_center:",
+      "widexxy_right_eye_weed": ":widexxy_right_eye_weed:",
+      "widexxy_right_eye": ":widexxy_right_eye:",
+      "widexxy_right": ":widexxy_right:"
     },
     "custom_message_types": {}
   },

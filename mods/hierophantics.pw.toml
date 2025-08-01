@@ -1,13 +1,13 @@
 name = "Hierophantics"
-filename = "hierophantics-1.1.0.jar"
+filename = "hierophantics-1.2.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ybwf7iLN/versions/xmIbrYu4/hierophantics-1.1.0.jar"
+url = "https://cdn.modrinth.com/data/ybwf7iLN/versions/hsZdKfk5/hierophantics-1.2.1.jar"
 hash-format = "sha1"
-hash = "9ad3c010897c1e12949d3609f1162697039d3f24"
+hash = "265c102709712695fa01715fcb253c0bbf798419"
 
 [update]
 [update.modrinth]
 mod-id = "ybwf7iLN"
-version = "xmIbrYu4"
+version = "hsZdKfk5"
