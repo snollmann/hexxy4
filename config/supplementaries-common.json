@@ -4,7 +4,7 @@
     "speaker_block": {
       "enabled": true,
       "narrator_enabled": true,
-      "max_text": 32,
+      "max_text": 128,
       "range": 64
     },
     "bellows": {
@@ -67,7 +67,7 @@
     "jar": {
       "enabled": true,
       "capacity": 12,
-      "drink_from_jar": false,
+      "drink_from_jar": true,
       "drink_from_jar_item": false,
       "jar_auto_detect": false,
       "jar_capture": true,
@@ -76,8 +76,8 @@
     },
     "cage": {
       "enabled": true,
-      "allow_all_mobs": false,
-      "cage_allow_all_babies": false,
+      "allow_all_mobs": true,
+      "cage_allow_all_babies": true,
       "cage_auto_detect": false,
       "persistent_mobs": false,
       "health_threshold": 100,
@@ -98,7 +98,7 @@
       "enabled": true,
       "tipped_spikes": true,
       "player_loot": false,
-      "only_allow_harmful_effects": true,
+      "only_allow_harmful_effects": false,
       "populate_creative_tab": true
     },
     "urn": {
@@ -125,9 +125,10 @@
         "xycraft_world:rgb_lamp_pole"
       ],
       "special_blocks": {
+        "quark:dirty_glass": "minecraft:glass",
+        "minecraft:sticky_piston": "minecraft:piston",
         "quark:dirty_glass_pane": "minecraft:glass_pane",
-        "#alexscaves:cave_paintings": "alexscaves:smooth_limestone",
-        "quark:dirty_glass": "minecraft:glass"
+        "#alexscaves:cave_paintings": "alexscaves:smooth_limestone"
       }
     },
     "cannon": {
@@ -165,7 +166,7 @@
   "building": {
     "blackboard": {
       "enabled": true,
-      "colored_blackboard": false,
+      "colored_blackboard": true,
       "interaction_mode": "BOTH"
     },
     "gravel_bricks": {
@@ -188,7 +189,7 @@
     },
     "item_shelf": {
       "enabled": true,
-      "climbable_shelves": false
+      "climbable_shelves": true
     },
     "sugar_cube": {
       "enabled": true,
@@ -206,7 +207,8 @@
       "gui": true
     },
     "pedestal": {
-      "enabled": true
+      "enabled": true,
+      "crystal_enchanting": 3
     },
     "ash": {
       "enabled": true,
@@ -281,9 +283,9 @@
   },
   "tools": {
     "quiver": {
-      "enabled": true,
+      "enabled": false,
       "use_without_slow": true,
-      "slots": 6,
+      "slots": 12,
       "quiver_skeleton_spawn_chance": 0.03,
       "only_works_in_curio": false,
       "quiver_pickup": true
@@ -339,11 +341,11 @@
       "unrestricted_enderman_intercept": true,
       "allow_buckets": true,
       "damageable_damage": 0.5,
-      "allow_splash_potions": false,
-      "allow_bombs": false,
-      "allow_fire_charges": false,
-      "allow_snowballs": false,
-      "allow_enderpearls": false
+      "allow_splash_potions": true,
+      "allow_bombs": true,
+      "allow_fire_charges": true,
+      "allow_snowballs": true,
+      "allow_enderpearls": true
     },
     "antique_ink": {
       "enabled": true
@@ -409,7 +411,9 @@
     "placeable_books": {
       "written_books": true,
       "enabled": true,
-      "mixed_books": false
+      "book_power": 1.0,
+      "enchanted_book_power": 1.334,
+      "mixed_books": true
     },
     "zombie_horse": {
       "zombie_horse_conversion": true,
